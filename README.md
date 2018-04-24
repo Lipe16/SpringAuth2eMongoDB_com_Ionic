@@ -5,7 +5,9 @@ Experiência feita em um curso da Udemy, ministrado por Nataniel Paiva
 Neste repositório seguem os códigos fontes do Back-end e do front-end:
 
 Banco de dados: MongoDB
+
 back-end: Java, SpringBoot, SpringAuth2, SpringData
+
 Front-end: Ionic(Framework que usa Angular para criar aplicações multiplataformas mobile)
 
 
